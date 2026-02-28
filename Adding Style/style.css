@@ -1,0 +1,9 @@
+#inline{ 
+    color: blue;
+}
+#external{
+    color: green;
+}
+#internal{
+    color: red;
+}
